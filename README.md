@@ -1,7 +1,7 @@
 # Introduction to Computer Vision
 
 This is the repository where I will be posting the solutions that I come up with
-for the Georgia Tech [CS 6476][https://www.udacity.com/course/introduction-to-computer-vision--ud810] course.
+for the Georgia Tech [CS 6476](https://www.udacity.com/course/introduction-to-computer-vision--ud810) course.
 
 ## About this Course
 
