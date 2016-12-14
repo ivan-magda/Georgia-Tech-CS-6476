@@ -17,11 +17,11 @@ classification theory best learned in an ML course.
 The focus of the course is to develop the intuitions and mathematics of the
 methods in lecture, and then to learn about the difference between theory and
 practice in the problem sets. All algorithms work perfectly in the slides.
-But remember what **Yogi Berra** said: *In theory there is no difference between theory and practice*.
+But remember what **Yogi Berra** said: `In theory there is no difference between theory and practice.`
 
 ## Sections
 
 - [Image Processing for Computer Vision](../master/2-Image-Processing-for-Computer-Vision)
   * [2A Linear image processing](../master/2-Image-Processing-for-Computer-Vision/2A-Linear-image-processing)
-  * 2B Model fitting
-  * 2C Frequency domain analysis
+  * [2B Model fitting](../master/2-Image-Processing-for-Computer-Vision/2B-Model-fitting)
+  * [2C Frequency domain analysis](../master/2-Image-Processing-for-Computer-Vision/2C-Frequency-domain-analysis)
